@@ -1,5 +1,5 @@
 # LMDEN
-<h2>This is the official repo for LMDEN, created by Voruarn, from School of Computer Science, NUIST, Nanjing, China, 2023, November, 25th.</h2>
+<h2>This is the official repo for LMDEN, created by Voruarn, from School of Computer Science, Nanjing University of Information Science and Technology, Nanjing, China, 2023, November, 25th.</h2>
 
 <h3>Merci!</h3>
 <hr>
