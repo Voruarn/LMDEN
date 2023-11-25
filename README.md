@@ -7,4 +7,10 @@
 <hr>
 <h3>Xopomo!</h3>
 <hr>
-<img src='./img/LMDEN.png'>
+<h2 style="text-align:center;">Some typical remote sensing images of forest fire and RSI-SOD.</h2>
+<img src='imgs/TypicalImg.png'>
+<hr>
+<h2 style="text-align:center;">The architecture of our proposed LMDEN.</h2>
+<img src='imgs/LMDEN.png'>
+
+
